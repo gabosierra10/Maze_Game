@@ -141,7 +141,6 @@ def updateLeaderboard(name, score):
 
 def main():
 
-
 	win = GraphWin("Maze Game", 500, 500)
 	win.setCoords(0,0,20,30)
 	win.setBackground("lightblue")
@@ -152,7 +151,4 @@ def main():
 	handleClick(win)
 	updateLeaderboard(name, count)
 	
-
-
-
 main()
