@@ -1,5 +1,3 @@
 Maze Game Leaderboards
 
 Here is the record of all the scores from the Maze Game. -1 Moves to Win indicates that the player has either hit an obstacle or gone out of bounds. The scores are unsorted.
-
-Name: Gabriel Moves to Win: -1
